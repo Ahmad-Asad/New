@@ -1,3 +1,3 @@
 echo "This script is taken from GitHub"
-$NUMBER=$(($NUMBERONE+$NUMBERTWO))
+NUMBER=$(($NUMBERONE+$NUMBERTWO))
 echo="$NUMBER"
